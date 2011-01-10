@@ -1,0 +1,30 @@
+body{
+    width: 990px;
+    margin: 20px auto;	
+}
+div{
+	clear: both;
+	overflow: hidden;
+	text-align: center;
+}
+dfn{
+	display: block;
+	font-size: 11px;
+}
+img{
+	border: 1px solid #808080;
+}
+.a{
+	float: left;
+}
+.i{
+	
+}
+.s{
+	float: right;
+}
+a{
+	color: #316E9F;
+}
+
+	
